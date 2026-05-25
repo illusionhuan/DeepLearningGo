@@ -1,0 +1,7 @@
+grpcio==1.62.1
+ml-dtypes==0.2.0
+pywinpty==2.0.5
+pyzmq==23.2.0
+torch==1.12.1
+torchaudio==0.12.1
+torchvision==0.13.1
